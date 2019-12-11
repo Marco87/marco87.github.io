@@ -3,7 +3,7 @@ My portfolio on GitHub
 
 If you wanna know more things about me, is just to click in the image.
 
-<a href="marco87.github.io" target="_blank"><img src="https://www.jonathan-petitcolas.com/img/posts/github-pages/github-pages.png"></a>
+<a href="https://marco87.github.io" target="_blank"><img src="https://www.jonathan-petitcolas.com/img/posts/github-pages/github-pages.png"></a>
 
 
 
