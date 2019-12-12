@@ -3,14 +3,20 @@ My portfolio on GitHub
 
 ## Profile
 
-### Name:
+#### Name:
 Marco Aurélio Alencastro Pacheco
 
-### Age:
+#### Age:
 32
 
-### Nacionality:
+#### Nacionality:
 Brazilian
+
+#### Phone:
++55 21 986674806
+
+#### E-mail:
+marcoalencastro@yahoo.com.br
 
 ## Academic Experience
 MBA of Big Data and Business Intelligence, by ENEB (2019 - Present)
