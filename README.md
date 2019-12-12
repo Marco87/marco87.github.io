@@ -32,7 +32,7 @@ BNDES - Developer Trainee (2011 - 2013)
 <a href="https://www.facebook.com/marco.alencastro1" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png"></a>
 <a href="https://twitter.com/MarcoAlen87" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-128.png"></a>
 <a href="https://www.instagram.com/marco.alencastro/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png"></a>
-<a href="https://api.whatsapp.com/send?phone=5521986674806" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp_colored_svg_1-128.png"></a>
+<a href="https://api.whatsapp.com/send?phone=5521986674806" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/whatsapp-128.png"></a>
 
 If you wanna know more things about me, is just to click in the image.
 
