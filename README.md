@@ -1,6 +1,11 @@
 # marco87.github.io
 My portfolio on GitHub
 
+## Profile
+
+### Name:
+Marco Aurélio Alencastro Pacheco
+
 Social Medias:
 
 <a href="https://www.linkedin.com/in/marco-alencastro/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png"></a>
