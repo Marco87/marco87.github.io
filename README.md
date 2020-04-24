@@ -7,7 +7,7 @@ My portfolio on GitHub
 Marco Aurélio Alencastro Pacheco
 
 #### Age:
-32
+33
 
 #### Nacionality:
 Brazilian
@@ -19,14 +19,12 @@ Brazilian
 marcoalencastro@yahoo.com.br
 
 ## Academic Experience
-MBA of Big Data and Business Intelligence, by ENEB (2019 - Present)
-
-MBA of Business Administration, by ENEB (2019 - Present)
-
 Bacharelor in Computer Science, by Universidade Veiga de Almeida (2009 - 2014)
 
 ## Professional Experience
-S8 Comunicação - Digital Marketing (2018 - Present)
+Solutic/Petrobras - Data Analyst (2020 - Present)
+
+S8 Comunicação - Digital Marketing (2018 - 2019)
 
 Sebrae/CNPq - Local Innovation Agent (2015 - 2018)
 
