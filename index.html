@@ -19,7 +19,8 @@
         Gerar certificado
     </button>
 
-    <script src="https://caelum.github.io/quarentenadev/libCertificado.js"> </script>
+    <!--<script src="https://caelum.github.io/quarentenadev/libCertificado.js"> </script>-->
+    <script src="js/libCurriculo.js"> </script>
 </body>
 <script>
     function gerar(){
@@ -31,11 +32,12 @@
         
         listalink=[
           "https://codepen.io/theamandaalmeida/pen/qBdwaab",
+          "https://codepen.io/theamandaalmeida/pen/wvabevv",
           "https://codepen.io/theamandaalmeida/pen/wvabevv"
         ]
         contalink=0
         listalinkcomhtml=""
-        while(contalink<2){
+        while(contalink<3){
       
           link=listalink[contalink]
           listalinkcomhtml=`<li>${link}</li>`+listalinkcomhtml
@@ -49,7 +51,7 @@
             </ol>
       
       `
-        print();
+        //print();
       }      
 </script>
 

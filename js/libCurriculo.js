@@ -97,7 +97,7 @@ const HTMLCertificado = nome => `
     </span>
   </p>
 
-  <h2> Códigos feitos: </h2>
+  <h2> Exemplos de Códigos: </h2>
 
   <footer>
     <figure>
@@ -149,7 +149,7 @@ const CSSCertificado = () => `
   }
 
   body:after {
-    content: "Certificado";
+    content: "Currículo";
 
     position: absolute;
     right: 0;
